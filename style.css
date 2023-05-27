@@ -1,0 +1,30 @@
+.header{
+    width: auto;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.891);
+}
+.box1{
+    margin-top: 50px;
+}
+.header1{
+    width: auto;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.891);
+}
+.box2{
+    margin-top: 40px;
+}
+.box3{
+ height: 600px;
+ border-radius: 30px;
+}
+.box4{
+    margin-left: 180px;
+    top:-700px;
+width: 1500px;
+/* box-shadow: 30px 30px 30px 30px rgba(0, 0, 0, 0.298); */
+}
+.zal{
+display: inline-flex;
+    color: #ffffff;
+}
